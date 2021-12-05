@@ -9,13 +9,13 @@ using global::System.Runtime.CompilerServices;
 
 [GeneratedCode("SpecFlow", "3.7.13")]
 [SetUpFixture]
-public class CalculatorSelenium_Specs_NUnitAssemblyHooks
+public class Specflow_demo_bikroy_NUnitAssemblyHooks
 {
     [OneTimeSetUp]
     [MethodImpl(MethodImplOptions.NoInlining)]
     public void AssemblyInitialize()
     {
-        var currentAssembly = typeof(CalculatorSelenium_Specs_NUnitAssemblyHooks).Assembly;
+        var currentAssembly = typeof(Specflow_demo_bikroy_NUnitAssemblyHooks).Assembly;
 
         TestRunnerManager.OnTestRunStart(currentAssembly);
     }
@@ -24,7 +24,7 @@ public class CalculatorSelenium_Specs_NUnitAssemblyHooks
     [MethodImpl(MethodImplOptions.NoInlining)]
     public void AssemblyCleanup()
     {
-        var currentAssembly = typeof(CalculatorSelenium_Specs_NUnitAssemblyHooks).Assembly;
+        var currentAssembly = typeof(Specflow_demo_bikroy_NUnitAssemblyHooks).Assembly;
 
         TestRunnerManager.OnTestRunEnd(currentAssembly);
     }

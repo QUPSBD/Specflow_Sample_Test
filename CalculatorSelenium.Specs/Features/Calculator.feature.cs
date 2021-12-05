@@ -10,7 +10,7 @@
 // ------------------------------------------------------------------------------
 #region Designer generated code
 #pragma warning disable
-namespace CalculatorSelenium.Specs.Features
+namespace Specflow_demo_bikroy.Features
 {
     using TechTalk.SpecFlow;
     using System;

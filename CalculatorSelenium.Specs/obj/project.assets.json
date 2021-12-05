@@ -6907,9 +6907,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\Source\\Repos\\QUPSBD\\Specflow_Sample_Test\\CalculatorSelenium.Specs\\CalculatorSelenium.Specs.csproj",
-      "projectName": "CalculatorSelenium.Specs",
-      "projectPath": "C:\\Users\\LENOVO\\Source\\Repos\\QUPSBD\\Specflow_Sample_Test\\CalculatorSelenium.Specs\\CalculatorSelenium.Specs.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\Source\\Repos\\QUPSBD\\Specflow_Sample_Test\\CalculatorSelenium.Specs\\Specflow_demo_bikroy.csproj",
+      "projectName": "Specflow_demo_bikroy",
+      "projectPath": "C:\\Users\\LENOVO\\Source\\Repos\\QUPSBD\\Specflow_Sample_Test\\CalculatorSelenium.Specs\\Specflow_demo_bikroy.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\LENOVO\\Source\\Repos\\QUPSBD\\Specflow_Sample_Test\\CalculatorSelenium.Specs\\obj\\",
       "projectStyle": "PackageReference",
